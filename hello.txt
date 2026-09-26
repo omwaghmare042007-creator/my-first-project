@@ -1,1 +1,1 @@
-hello! This is my first Github project
+hello om! I am learning Github for AI and Data science.
